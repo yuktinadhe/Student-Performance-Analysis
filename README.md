@@ -16,4 +16,9 @@ Identifying key factors affecting academic success
 Predicting student performance based on given attributes
 Understanding trends in student achievements
 
+**Observation:**
+
+- From this heatmap we can see that their is 45% variance between Hours_Studied & Exam score. that means if the number of hours studied will increse it will affect the exam score in a positive way.
+- The attendence also playing a major roll by having the variance of a 58% that means if the attendence of the students is gone a increase the exam score will also increse.
+
 
